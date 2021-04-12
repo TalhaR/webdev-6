@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/web-dev6/static/css/main.6b9d4370.chunk.css",
-    "main.js": "/web-dev6/static/js/main.9295fd3d.chunk.js",
-    "main.js.map": "/web-dev6/static/js/main.9295fd3d.chunk.js.map",
-    "runtime-main.js": "/web-dev6/static/js/runtime-main.51cdfb27.js",
-    "runtime-main.js.map": "/web-dev6/static/js/runtime-main.51cdfb27.js.map",
-    "static/js/2.cffd0b51.chunk.js": "/web-dev6/static/js/2.cffd0b51.chunk.js",
-    "static/js/2.cffd0b51.chunk.js.map": "/web-dev6/static/js/2.cffd0b51.chunk.js.map",
-    "index.html": "/web-dev6/index.html",
-    "static/css/main.6b9d4370.chunk.css.map": "/web-dev6/static/css/main.6b9d4370.chunk.css.map",
-    "static/js/2.cffd0b51.chunk.js.LICENSE.txt": "/web-dev6/static/js/2.cffd0b51.chunk.js.LICENSE.txt"
+    "main.css": "/webdev-6/static/css/main.6b9d4370.chunk.css",
+    "main.js": "/webdev-6/static/js/main.9295fd3d.chunk.js",
+    "main.js.map": "/webdev-6/static/js/main.9295fd3d.chunk.js.map",
+    "runtime-main.js": "/webdev-6/static/js/runtime-main.f655f6c1.js",
+    "runtime-main.js.map": "/webdev-6/static/js/runtime-main.f655f6c1.js.map",
+    "static/js/2.cffd0b51.chunk.js": "/webdev-6/static/js/2.cffd0b51.chunk.js",
+    "static/js/2.cffd0b51.chunk.js.map": "/webdev-6/static/js/2.cffd0b51.chunk.js.map",
+    "index.html": "/webdev-6/index.html",
+    "static/css/main.6b9d4370.chunk.css.map": "/webdev-6/static/css/main.6b9d4370.chunk.css.map",
+    "static/js/2.cffd0b51.chunk.js.LICENSE.txt": "/webdev-6/static/js/2.cffd0b51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51cdfb27.js",
+    "static/js/runtime-main.f655f6c1.js",
     "static/js/2.cffd0b51.chunk.js",
     "static/css/main.6b9d4370.chunk.css",
     "static/js/main.9295fd3d.chunk.js"
