@@ -8,6 +8,7 @@ import HomePage from "./pages/HomePage";
 import CatPage from "./pages/CatPage";
 import DogPage from "./pages/DogPage";
 import CatFactsPage from "./pages/CatFactsPage";
+import DogFactsPage from "./pages/DogFactsPage";
 
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/dogs" component={DogPage} />
         <Route path="/cats" component={CatPage} />
         <Route path="/catfacts" component={CatFactsPage} />
+        <Route path="/dogfacts" component={DogFactsPage} />
         <Route path="/" component={HomePage} />
       </Switch>
     </Router>

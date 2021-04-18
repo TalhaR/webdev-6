@@ -17,6 +17,9 @@ function HomePage() {
                         <button type="button" className="btn btn-light">
                             <Link to="/catfacts">Cat Facts</Link>
                         </button> <br/>
+                        <button type="button" className="btn btn-light">
+                            <Link to="/dogfacts">Dog Facts</Link>
+                        </button> <br/>
                     </div>
                 </div>
             </div>
