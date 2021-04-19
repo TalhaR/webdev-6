@@ -1,4 +1,4 @@
-# Web Dev Assignment #6
+# Web Dev Assignment #6 - https://talhar.github.io/webdev-6/
 - Link to deployed page: https://talhar.github.io/webdev-6/
 
 ## Documentation of APIs
