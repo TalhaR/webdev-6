@@ -7,8 +7,6 @@ function CatFactsPage() {
     useEffect(() => {
         const getDailyFacts = async () => {
             let res = await axios.get('https://cat-fact.herokuapp.com/facts');
-            let y = res.data;
-            console.log(res.data[0]);
             setFacts(res.data.map((fact) => {
               return <p key={fact["_id"]}> {fact["text"]} </p>
             }));
